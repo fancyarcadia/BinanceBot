@@ -2,7 +2,7 @@
 
 Professional Windows desktop app for Binance USDT-M Futures with a clean dashboard, deterministic signal logic, and practical risk controls.
 
-![Binance Futures Bot Logo](icon_pack/binancebot_128.png)
+![Binance Futures Bot Logo](binancebot_128.png)
 
 ## 🚀 Release v1
 
@@ -114,4 +114,4 @@ If this project helps you, donations are appreciated.
 
 **Scan QR**
 
-![Donate QR](donateInfo/qr-code.png)
+![Donate QR](qr-code.png)
