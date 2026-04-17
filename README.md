@@ -11,11 +11,6 @@ Download from the GitHub release assets:
 - **Installer (recommended):** `BinanceBot-v2-setup.exe`
 - **Portable (no install):** `BinanceBot-v2-portable-win-x64.exe`
 
-Current local build artifacts:
-
-- `release/v2/BinanceBot-v1-setup.exe`
-- `release/v2/BinanceBot-v2-portable-win-x64.exe`
-
 ## 🧭 Product Summary
 
 - ⚡ **Fast desktop experience** (WinForms, low-overhead runtime)
