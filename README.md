@@ -36,13 +36,13 @@ Download from the GitHub release assets:
 
 ### Option A: Installer (Recommended)
 
-1. Download `BinanceBot-v1-setup.exe` from Releases.
+1. Download `BinanceBot-v2-setup.exe` from Releases.
 2. Run the installer and complete setup.
 3. Launch **Binance Futures Bot** from Start Menu/Desktop.
 
 ### Option B: Portable
 
-1. Download `BinanceBot-v1-portable-win-x64.exe`.
+1. Download `BinanceBot-v2-portable-win-x64.exe`.
 2. Place it in any folder.
 3. Run directly (no installation required).
 
