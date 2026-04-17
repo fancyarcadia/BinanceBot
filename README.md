@@ -4,17 +4,17 @@ Professional Windows desktop app for Binance USDT-M Futures with a clean dashboa
 
 ![Binance Futures Bot Logo](binancebot_128.png)
 
-## 🚀 Release v1
+## 🚀 Release v2
 
 Download from the GitHub release assets:
 
-- **Installer (recommended):** `BinanceBot-v1-setup.exe`
-- **Portable (no install):** `BinanceBot-v1-portable-win-x64.exe`
+- **Installer (recommended):** `BinanceBot-v2-setup.exe`
+- **Portable (no install):** `BinanceBot-v2-portable-win-x64.exe`
 
 Current local build artifacts:
 
-- `release/v1/BinanceBot-v1-setup.exe`
-- `release/v1/portable/BinanceBot-v1-portable-win-x64.exe`
+- `release/v2/BinanceBot-v1-setup.exe`
+- `release/v2/BinanceBot-v2-portable-win-x64.exe`
 
 ## 🧭 Product Summary
 
